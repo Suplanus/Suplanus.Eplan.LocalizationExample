@@ -1,0 +1,10 @@
+{
+  "FileVersion": 2,
+  "Id": "8bc7ac49-dd95-489f-bdde-3b41210cd96d",
+  "Items": [
+    {
+      "Id": "dad5575d-a6e8-4ac7-adee-9671e5a9fa25",
+      "Command": "/Variant:\"Electric P8\" /SystemConfiguration:API"
+    }
+  ]
+}
