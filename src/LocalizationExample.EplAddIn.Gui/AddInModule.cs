@@ -1,4 +1,5 @@
 ﻿using Eplan.EplApi.ApplicationFramework;
+using LocalizationExample.Translations;
 
 namespace LocalizationExample.EplAddIn.Gui
 {
@@ -23,6 +24,8 @@ namespace LocalizationExample.EplAddIn.Gui
 
     public bool OnInitGui()
     {
+      TranslationManager.Init();
+
       return true;
     }
 

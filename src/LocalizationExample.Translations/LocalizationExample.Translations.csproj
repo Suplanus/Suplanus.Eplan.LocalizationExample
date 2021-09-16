@@ -52,6 +52,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Terms.resx</DependentUpon>
     </Compile>
+    <Compile Include="TranslationManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Terms.de-de.resx">
